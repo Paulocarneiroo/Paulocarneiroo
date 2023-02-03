@@ -13,4 +13,5 @@
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
 </div>
 
-Studying software engeneering/Computer Science and focousing on Spring and React development
+<br/>
+#Studying software engeneering/Computer Science and focousing on Spring and React development
