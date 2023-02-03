@@ -14,4 +14,4 @@
 </div>
 
 <br/>
-#Studying software engeneering/Computer Science and focousing on Spring and React development
+Focousing on Spring and React development
