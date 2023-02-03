@@ -1,6 +1,6 @@
 ### Hi, I'm Paulo Carneiro 👻
 
-[![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo&show_icons=true&theme=onedark)](https://github.com/Paulocarneiroo/github-readme-stats)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulocarneiroo&show_icons=true&theme=onedark)
 
 ## Those are some technologies I develop
 <div style="display: inline-block"><br/>
