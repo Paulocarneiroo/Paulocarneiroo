@@ -19,3 +19,6 @@
 
 <br/>
 Focousing on Spring and React development
+
+## Check out my portfolio
+![MY PORTIFOLIO](https://curriculoportifoliobypaulo.netlify.app/)
