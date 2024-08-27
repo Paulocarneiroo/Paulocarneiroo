@@ -21,4 +21,4 @@
 Focousing on Spring and React development
 
 ## Check out my portfolio
-![MY PORTIFOLIO](https://curriculoportifoliobypaulo.netlify.app/)
+<a href="https://curriculoportifoliobypaulo.netlify.app/" style="font-size: 20px;" target="_blank"><img align="center" src="https://img.shields.io/badge/My%20Portifolo%20-8A2BE2" alt="Portifolio" style="width: 100px; height: 50px;"></a>
