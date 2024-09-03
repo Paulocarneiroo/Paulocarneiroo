@@ -1,8 +1,6 @@
-### Hi, I'm Paulo Carneiro 👻
+### Olá, Sou o Paulo | Hi, I'm Paulo
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulocarneiroo&show_icons=true&theme=onedark)
-
-## Those are some technologies I develop
+## Essas são algumas tecnologias que eu desenvolvo | Those are some technologies I develop
 <div style="display: inline-block"><br/>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"><br/><br/>
@@ -16,9 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulocarneiroo&layout=compact)](https://github.com/Paulocarneiroo/github-readme-stats)
 
-
 <br/>
-Focousing on Spring and React development
 
-## Check out my projects
-<a href="https://curriculoportifoliobypaulo.netlify.app/" style="font-size: 20px;" target="_blank"><img align="center" src="https://img.shields.io/badge/My%20Portifolio%20-8A2BE2" alt="Portifolio" style="width: 150px; height: 40px;"></a>
+## Confira meus projetos | Check out my projects
+<a href="https://curriculoportifoliobypaulo.netlify.app/" style="font-size: 20px;" target="_blank"><img align="center" src="https://img.shields.io/badge/Meu%20Portifólio%20-8A2BE2" alt="Portifolio" style="width: 150px; height: 40px;"></a>
