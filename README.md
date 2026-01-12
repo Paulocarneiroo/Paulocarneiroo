@@ -17,4 +17,4 @@
 <br/>
 
 ## Confira meus projetos | Check out my projects
-<a href="[https://curriculoportifoliobypaulo.netlify.app/](https://mydevporti.netlify.app/)" style="font-size: 20px;" target="_blank"><img align="center" src="https://img.shields.io/badge/Meu%20Portifólio%20-8A2BE2" alt="Portifolio" style="width: 150px; height: 40px;"></a>
+<a href="https://mydevporti.netlify.app/" style="font-size: 20px;" target="_blank"><img align="center" src="https://img.shields.io/badge/Meu%20Portifólio%20-8A2BE2" alt="Portifolio" style="width: 150px; height: 40px;"></a>
